@@ -20,7 +20,7 @@
   "libraries": "z",
   "dependencies": {
     "CocoaLumberjack": [
-      "2.0.0"
+      "2.2.0"
     ]
   },
   "default_subspecs": "Core",
